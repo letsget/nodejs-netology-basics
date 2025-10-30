@@ -1,6 +1,7 @@
 {
   "name": "nodejs-netology",
   "version": "1.0.0",
+  "type": "module",
   "description": "nodejs-basic",
   "main": "index.js",
   "scripts": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/letsget/nodejs-netology-basics/issues"
   },
-  "homepage": "https://github.com/letsget/nodejs-netology-basics#readme"
+  "homepage": "https://github.com/letsget/nodejs-netology-basics#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "yargs": "^18.0.0"
+  }
 }
