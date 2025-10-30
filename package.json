@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-netology",
+  "version": "1.0.0",
+  "description": "nodejs-basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsget/nodejs-netology-basics.git"
+  },
+  "author": "Andrey Bondarev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsget/nodejs-netology-basics/issues"
+  },
+  "homepage": "https://github.com/letsget/nodejs-netology-basics#readme"
+}
