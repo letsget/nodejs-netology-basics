@@ -3,4 +3,4 @@
 *.log
 dist/
 build/
-idea/
+./idea
