@@ -1,0 +1,64 @@
+{
+  "gamesStats": [
+    {
+      "guessedNumber": 1,
+      "answer": 2,
+      "isWin": false
+    },
+    {
+      "guessedNumber": 1,
+      "answer": "2",
+      "isWin": false
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "2",
+      "isWin": true
+    },
+    {
+      "guessedNumber": 1,
+      "answer": "1",
+      "isWin": true
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "2",
+      "isWin": true
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "1",
+      "isWin": false
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "2",
+      "isWin": true
+    },
+    {
+      "guessedNumber": 1,
+      "answer": "1",
+      "isWin": true
+    },
+    {
+      "guessedNumber": 1,
+      "answer": "2",
+      "isWin": false
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "1",
+      "isWin": false
+    },
+    {
+      "guessedNumber": 1,
+      "answer": "3",
+      "isWin": false
+    },
+    {
+      "guessedNumber": 2,
+      "answer": "1",
+      "isWin": false
+    }
+  ]
+}
