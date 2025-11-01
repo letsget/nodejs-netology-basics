@@ -5,6 +5,7 @@
   "description": "nodejs-basic",
   "main": "index.js",
   "scripts": {
+    "dev": "node -r dotenv/config ./src/05-http/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "dependencies": {
     "date-fns": "^4.1.0",
     "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3"
   }
 }
