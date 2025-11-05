@@ -2,7 +2,6 @@ import config from "../../config.js";
 import http from "http";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
-console.log('conf file gotten?', config.api_key, config.port);
 
 const argv = yargs(hideBin(process.argv)).argv;
 
